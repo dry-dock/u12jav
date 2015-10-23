@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash -e
 
 echo "================ Installing gradle ================="
 sudo wget https://services.gradle.org/distributions/gradle-2.3-all.zip
